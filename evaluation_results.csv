@@ -1,0 +1,10 @@
+jammer,strategy,pdr_percent,std
+random,fixed,87.6,1.03
+random,random,87.52,0.98
+random,q_learning,87.66,1.05
+sweep,fixed,87.5,0.0
+sweep,random,87.41,0.84
+sweep,q_learning,100.0,0.0
+reactive,fixed,0.0,0.0
+reactive,random,87.54,1.08
+reactive,q_learning,100.0,0.0
